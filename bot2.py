@@ -9,7 +9,7 @@ from telegram.ext import (
 BOT_TOKEN = "8723296682:AAFhkJL-ywQ2KBHxRXwZoCgaHMeWw8jbRQQ"
 
 # ===== 管理員ID =====
-ADMIN_IDS = [5494623381]
+ADMIN_IDS = [5494623381,7077341523]
 
 # ===== 儲存UID =====
 user_codes = {}
